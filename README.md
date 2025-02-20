@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
 <h3 align="center">I am a computer engineering student at IZTECH.</h3><br>
 
-- 🔭 I’m working on **front end web development**.
-
-- 🌱 I’m currently learning **Vue.js and Nuxt.js**
-
 - 📫 You can reach me, **ahmetkurtms@hotmail.com**
 
 <br>
